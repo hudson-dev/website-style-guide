@@ -1,5 +1,5 @@
 # Website Style Guide
-> A project for Codecademy's Full Stack Pro Path.  Visit the website: [here](https://hudson-dev.github.io/excursion/)
+> A project for Codecademy's Full Stack Pro Path.  Visit the website: [here](https://hudson-dev.github.io/website-style-guide/)
 
 ## Table of contents
 - [Excursion](#Excursion)
