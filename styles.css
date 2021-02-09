@@ -1,0 +1,147 @@
+body {
+    margin: 2% 5%;
+}
+
+.title {
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    font-size: 33px;
+    margin-left: 15px;
+    margin-top: 0px;
+}
+
+.color {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: row wrap;
+}
+
+.color h2 {
+    margin-left: 12px;
+}
+
+.main {
+    border: 1px solid #000000;
+    border-radius: 5px;
+
+    margin: 30px 15px 15px 15px;
+}
+
+.main h2 {
+    font-family: 'Montserrat', sans-serif;
+    width: 100%;
+    /* font-size: 23px; */
+    font-weight: bolder;
+}
+
+.color-row {
+    width: 50%;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+    height: 115px;
+
+    border-radius: 5px;
+    margin: 5px 10px 10px 10px;
+}
+
+.blue {
+    background-color: #2d5dcc;
+}
+
+.pink {
+    background-color: #d957d9;
+}
+
+.mint-green {
+    background-color: #4fe0b0;
+}
+
+.beige {
+    background-color: #efd9ca;
+}
+
+.box h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: 2px; 
+    color: white;
+}
+
+.box h3:first-child {
+    margin-top: 0px;
+}
+
+.box h3:last-child{
+    margin: 0px;
+}
+
+.font {
+    display: flex;
+    align-items: center;
+    flex-flow: row wrap;
+    padding-left: 12px;
+}
+
+.font section {
+    margin-right: 30px;
+}
+
+.source-code-pro {
+    margin-bottom: 35px;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.nunito-sans {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.styles {
+    display: flex;
+    align-items: center;
+    flex-flow: row wrap;
+    /* padding-left: 12px; */
+}
+
+.styles {
+    display: flex;
+    align-items: center;
+    flex-flow: row wrap;
+    padding-left: 12px;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.styles section h1 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.styles section h2 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.styles section p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+}
