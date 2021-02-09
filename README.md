@@ -1,8 +1,8 @@
-# Website Style Guide
+# Website-Style-Guide
 > A project for Codecademy's Full Stack Pro Path.  Visit the website: [here](https://hudson-dev.github.io/website-style-guide/)
 
 ## Table of contents
-- [Website Style Guide](#Website Style Guide)
+- [Website Style Guide](#Website-Style-Guide)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Technologies](#technologies)
